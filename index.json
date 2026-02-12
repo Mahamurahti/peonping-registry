@@ -2,6 +2,46 @@
   "version": 1,
   "packs": [
     {
+      "name": "acolyte_de",
+      "display_name": "Undead Acolyte (DE)",
+      "version": "1.0.0",
+      "description": "German Undead Acolyte sound pack from Warcraft III",
+      "author": {
+        "name": "Kaffeetasse",
+        "github": "Kaffeetasse"
+      },
+      "trust_tier": "official",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "de",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 31,
+      "total_size_bytes": 2506838,
+      "source_repo": "PeonPing/og-packs",
+      "source_ref": "v1.0.0",
+      "source_path": "acolyte_de",
+      "manifest_sha256": "74d4953f5053c3d2f9423b7bd1af224a596d5d66d842951cd0d67ea0d31d2f34",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "AcolyteReady1.wav",
+        "AcolyteBuildingComplete1.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
+    },
+    {
       "name": "acolyte_ru",
       "display_name": "Undead Acolyte (Russian)",
       "version": "1.0.0",
@@ -358,6 +398,83 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "murloc",
+      "display_name": "Murloc",
+      "version": "1.0.0",
+      "description": "Murloc sound pack from Warcraft III",
+      "author": {
+        "name": "Ferror",
+        "github": "Ferror"
+      },
+      "trust_tier": "official",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 7,
+      "total_size_bytes": 70354,
+      "source_repo": "PeonPing/og-packs",
+      "source_ref": "v1.0.0",
+      "source_path": "murloc",
+      "manifest_sha256": "e9b5c431d0fcc907d7992634c6636188d533fd7e90370018c803d89528680153",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard"
+      ],
+      "preview_sounds": [
+        "mrrgll.mp3"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
+    },
+    {
+      "name": "ocarina_of_time",
+      "display_name": "Ocarina of Time",
+      "version": "1.0.0",
+      "description": "Navi and friends from The Legend of Zelda: Ocarina of Time",
+      "author": {
+        "name": "kmostdiek-k",
+        "github": "kmostdiek-k"
+      },
+      "trust_tier": "official",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 13,
+      "total_size_bytes": 755172,
+      "source_repo": "PeonPing/og-packs",
+      "source_ref": "v1.0.0",
+      "source_path": "ocarina_of_time",
+      "manifest_sha256": "56094abe0d6e975c7a05c48dd64ca2cb5dd33e543fa93611a3030f7835bffecb",
+      "tags": [
+        "gaming",
+        "zelda",
+        "nintendo"
+      ],
+      "preview_sounds": [
+        "OOT_Navi_Hello1.wav",
+        "OOT_Secret.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
+    },
+    {
       "name": "peasant",
       "display_name": "Human Peasant",
       "version": "1.0.0",
@@ -633,6 +750,46 @@
       "preview_sounds": [
         "PeonReady1.wav",
         "PeonReady1.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
+    },
+    {
+      "name": "peon_de",
+      "display_name": "Orc Peon (DE)",
+      "version": "1.0.0",
+      "description": "German Orc Peon sound pack from Warcraft III",
+      "author": {
+        "name": "Kaffeetasse",
+        "github": "Kaffeetasse"
+      },
+      "trust_tier": "official",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "de",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 27,
+      "total_size_bytes": 1013804,
+      "source_repo": "PeonPing/og-packs",
+      "source_ref": "v1.0.0",
+      "source_path": "peon_de",
+      "manifest_sha256": "2fd9c89497333efc0c1ddac317d23b0b715d7d29e9744f4105ee189b04253e57",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "PeonReady1.wav",
+        "PeonYes3.wav"
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
