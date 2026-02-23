@@ -3270,6 +3270,45 @@
       "updated": "2026-02-13"
     },
     {
+      "name": "starrail-kafka-peon-pack",
+      "display_name": "\u5D29\u574F\u661F\u7A79\u94C1\u9053\u002D\u5361\u8299\u5361\u8BED\u97F3\u5305",
+      "version": "1.0.1",
+      "description": "\u5D29\u574F\u661F\u7A79\u94C1\u9053\u002D\u5361\u8299\u5361\u8BED\u97F3\u5305",
+      "author": {
+        "name": "0w0miki",
+        "github": "0w0miki"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "zh",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 22,
+      "total_size_bytes": 7709704,
+      "source_repo": "0w0miki/starrail-Kafka-peon-pack",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "0bac778f75f0443251f717341116b3edea5ee69aaa7de42df919706c4f7a6ce8",
+      "tags": [
+        "gaming",
+        "starrail"
+      ],
+      "preview_sounds": [
+        "hi.wav",
+        "time-end.wav"
+      ],
+      "added": "2026-02-23",
+      "updated": "2026-02-23"
+    },
+    {
       "name": "tekken3_announcer",
       "display_name": "Announcer (Tekken 3)",
       "version": "1.0.0",
